@@ -28,7 +28,7 @@ The entire supply was minted at deployment and is owned by the deployer’s wall
 ---
 
 ## Verification  
-You can verify the contract source on [Polygonscan]  
+You can verify the contract source on https://repo.sourcify.dev/137/0x54903BaeCF7Bb5220031B0C8Bfe06b5610907079  
 or explore the project repository for full transparency.
 
 ---
